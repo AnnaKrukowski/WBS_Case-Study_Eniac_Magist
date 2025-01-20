@@ -1,7 +1,7 @@
 # Eniac's Market Expansion and Partner Evaluation
 
 ## Project Overview
-This repository contains analyses and insights for evaluating Magist as a partner for Eniac's expansion into the Brazilian market. The project aims to assess Magist's ability to handle high-end Apple-compatible products and ensure fast delivery standards for customer satisfaction.
+This repository contains analyses and insights for evaluating Magist as a partner for Eniac's expansion into the Brazilian market. The project aims to assess Magist's ability to handle high-end Apple-compatible products and ensure high delivery standards for customer satisfaction.
 
 ## Key Features
 - **Data Analysis with SQL and Tableau**: Fictional case study practice to enhance data analysis and business presentation skills.
